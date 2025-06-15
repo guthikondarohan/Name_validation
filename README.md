@@ -39,8 +39,6 @@ react-node-mongo-form-project/
 │   │   ├── index.js       # Entry point
 │   └── public/
 │       └── index.html     # HTML template
-├── README.md
-```
 
 ---
 
@@ -120,11 +118,4 @@ npm start
 
 [Name\_validation](https://github.com/guthikondarohan/Name_validation)
 
----
 
-## 🧩 Possible Improvements
-
-* Add UI validation
-* Use dotenv for storing secrets
-* Deploy using Vercel/Render/Heroku
-* Add login/authentication for protected access
